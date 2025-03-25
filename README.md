@@ -73,16 +73,6 @@ Me chamo Anderson Eduardo, tenho 22 anos e sou natural de Minas Gerais, mas atua
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
     />
 </a>
-<a href="https://www.typescriptlang.org/" target="_blank">
-    <img 
-        align="left" 
-        alt="TypeScript"
-        title="TypeScript" 
-        width="30px" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-    />
-</a>
 <a href="https://react.dev/" target="_blank">
     <img 
         align="left" 
@@ -111,16 +101,6 @@ Me chamo Anderson Eduardo, tenho 22 anos e sou natural de Minas Gerais, mas atua
         width="30px" 
         style="padding-right: 10px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-    />
-</a>
-<a href="https://www.gimp.org/" target="_blank">
-    <img 
-          align="left" 
-        alt="GIMP" 
-        title="GIMP"
-        width="30px" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" 
     />
 </a>
 
