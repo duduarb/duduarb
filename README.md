@@ -17,11 +17,11 @@ Me chamo Anderson Eduardo, tenho 22 anos e sou natural de Minas Gerais, mas atua
     />
 <img
     align="left" 
-    alt="LinkedIn"
-    title="LinkedIn" 
+    alt="GitHub"
+    title="GitHub" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" 
     />
 
 <br/>
