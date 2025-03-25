@@ -34,7 +34,7 @@ Me chamo Anderson Eduardo, tenho 22 anos e sou natural de Minas Gerais, mas atua
         title="Instagram" 
         width="30px" 
         style="padding-right: 10px;" 
-        src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.pngtree.com%2Fso%2Finstagram&psig=AOvVaw3Ht58NOOtrw2mgYYSjAFQs&ust=1743024550725000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCm7MuWpowDFQAAAAAdAAAAABAQ"
+        src=xmlns="http://www.w3.org/2000/svg"
     />
 </a>
 
