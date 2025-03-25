@@ -27,6 +27,16 @@ Me chamo Anderson Eduardo, tenho 22 anos e sou natural de Minas Gerais, mas atua
         src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"
     />
 </a>
+<a href="https://www.instagram.com/duduarb/" target="_blank">
+    <img 
+        align="left" 
+        alt="Instagram"
+        title="Instagram" 
+        width="30px" 
+        style="padding-right: 10px;" 
+        src="http://www.w3.org/2000/svg"
+    />
+</a>
 
 <br/>
 <br/>
