@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Me chamo Anderson Eduardo, tenho 22 anos e sou natural de Minas Gerais, mas atualmente moro na Grande Florianópolis. Concluí o ensino médio em 2020 e, em 2022, entrei no IFSC para cursar Engenharia Eletrônica. Após começar a estudar programação, decidi trocar de curso e atualmente curso Análise e Desenvolvimento de Sistemas (ADS) na modalidade EAD pela Cruzeiro do Sul. Sou apaixonado por tecnologia e busco constantemente expandir meus conhecimentos em programação, aprender novas linguagens e tecnologias, além de me aprofundar no desenvolvimento de soluções práticas e inovadoras.
+Me chamo Anderson Eduardo, tenho 22 anos e sou natural de Minas Gerais, mas atualmente moro na Grande Florianópolis. Concluí o ensino médio em 2020 e, em 2022, entrei no IFSC para cursar Engenharia Eletrônica. Após começar a estudar programação, decidi trocar de curso e atualmente curso Análise e Desenvolvimento de Sistemas EAD pela Cruzeiro do Sul. Sou apaixonado por tecnologia e busco constantemente expandir meus conhecimentos em programação, aprender novas linguagens e tecnologias, além de me aprofundar no desenvolvimento de soluções práticas e inovadoras.
 
 ---
 ### 📱 Redes Sociais
