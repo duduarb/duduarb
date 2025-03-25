@@ -5,7 +5,25 @@
 Me chamo Anderson Eduardo, tenho 22 anos e sou natural de Minas Gerais, mas atualmente moro na Grande Florianópolis. Concluí o ensino médio em 2020 e, em 2022, entrei no IFSC para cursar Engenharia Eletrônica. Após começar a estudar programação, decidi trocar de curso e atualmente curso Análise e Desenvolvimento de Sistemas (ADS) na modalidade EAD pela Cruzeiro do Sul. Sou apaixonado por tecnologia e busco constantemente expandir meus conhecimentos em programação, aprender novas linguagens e tecnologias, além de me aprofundar no desenvolvimento de soluções práticas e inovadoras.
 
 ---
+### 📱 Redes Sociais
 
+<img
+    align="left" 
+    alt="LinkedIn"
+    title="LinkedIn" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" 
+    />
+<img
+    align="left" 
+    alt="LinkedIn"
+    title="LinkedIn" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+    />
+    
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -71,6 +89,14 @@ Me chamo Anderson Eduardo, tenho 22 anos e sou natural de Minas Gerais, mas atua
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="GIMP" 
+    title="GIMP"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gimp/gimp-original.svg" 
 />
 
 <br/>
