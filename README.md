@@ -45,6 +45,16 @@ Sou apaixonado por tecnologia e busco constantemente expandir meus conhecimentos
     
 ### 🤖 Linguagens e Tecnologias
 
+<a href="https://www.python.org/" target="_blank">
+    <img 
+         align="left" 
+        alt="Python" 
+        title="Python"
+        width="30px" 
+        style="padding-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    />
+</a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
     <img 
         align="left" 
@@ -63,46 +73,6 @@ Sou apaixonado por tecnologia e busco constantemente expandir meus conhecimentos
         width="30px" 
         style="padding-right: 10px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-    />
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img 
-        align="left" 
-        alt="JavaScript" 
-        title="JavaScript"
-        width="30px" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-    />
-</a>
-<a href="https://react.dev/" target="_blank">
-    <img 
-        align="left" 
-        alt="React"
-        title="React" 
-        width="30px" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-    />
-</a>
-<a href="https://nextjs.org/docs" target="_blank">
-    <img 
-        align="left" 
-        alt="Next.js" 
-        title="Next.js"
-        width="30px" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-    />
-</a>
-<a href="https://www.python.org/" target="_blank">
-    <img 
-         align="left" 
-        alt="Python" 
-        title="Python"
-        width="30px" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
     />
 </a>
 <a href="https://git-scm.com/about/branching-and-merging">
