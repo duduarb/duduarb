@@ -1,6 +1,6 @@
 # 👨🏼‍💻 Anderson Eduardo
 
-**`Desenvolvedor Front-End`**
+**`Estudante de ADS`**
 
 Me chamo Anderson Eduardo Aparecido Reis Bento, tenho 22 anos e sou natural de Minas Gerais, mas atualmente moro na Grande Florianópolis. Concluí o ensino médio em 2020 e, em 2022, ingressei no IFSC para cursar Engenharia Eletrônica. No entanto, após iniciar meus estudos em programação, descobri uma grande afinidade com a área e decidi trocar de curso. Atualmente, curso Análise e Desenvolvimento de Sistemas (EAD) pela Cruzeiro do Sul.
 
