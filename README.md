@@ -55,26 +55,6 @@ Sou apaixonado por tecnologia e busco constantemente expandir meus conhecimentos
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
     />
 </a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
-    <img 
-        align="left" 
-        alt="HTML"
-        title="HTML" 
-        width="30px" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-    />
-</a>
-<a href="https://www.w3.org/TR/css/#css" target="_blank">
-    <img 
-        align="left" 
-        alt="CSS" 
-        title="CSS"
-        width="30px" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-    />
-</a>
 <a href="https://git-scm.com/about/branching-and-merging">
     <img 
         align="left" 
