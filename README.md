@@ -4,7 +4,7 @@
 
 Me chamo Anderson, tenho 22 anos e sou natural de Minas Gerais, mas atualmente moro na Grande Florianópolis. Concluí o ensino médio em 2020 e, em 2022, ingressei no IFSC para cursar Engenharia Eletrônica. No entanto, após iniciar meus estudos em programação, me interessei muito pela área e decidi trocar de curso. Atualmente, curso Análise e Desenvolvimento de Sistemas (EAD) pela Cruzeiro do Sul.
 
-Sou apaixonado por tecnologia e busco constantemente expandir meus conhecimentos em programação, além de me aprofundar no desenvolvimento de soluções práticas e inovadoras. Meu grande objetivo é, no futuro, atuar na área de Inteligência Artificial (IA).
+Sou apaixonado por tecnologia e busco constantemente expandir meus conhecimentos em programação, além de me aprofundar no desenvolvimento de soluções práticas e inovadoras. Meu objetivo é atuar como desenvolvedor back-end.
 
 ---
 ### 📱 Redes Sociais
@@ -53,6 +53,15 @@ Sou apaixonado por tecnologia e busco constantemente expandir meus conhecimentos
         width="30px" 
         style="padding-right: 10px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+    />
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img 
+         align="left" 
+        alt="JavaScript" 
+        title="JavaScript"
+        width="30px" 
+        style="padding-right: 10px;" 
+        src="http://www.w3.org/2000/svg" 
     />
 </a>
 <a href="https://git-scm.com/about/branching-and-merging">
