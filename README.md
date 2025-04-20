@@ -71,7 +71,17 @@ Sou apaixonado por tecnologia e busco constantemente expandir meus conhecimentos
         title="Node.js"
         width="30px" 
         style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" 
+    />
+</a>
+<a href="https://www.mysql.com/" target="_blank">
+    <img 
+         align="left" 
+        alt="MySQL" 
+        title="MySQL"
+        width="30px" 
+        style="padding-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
     />
 </a>
 <a href="https://git-scm.com/about/branching-and-merging">
