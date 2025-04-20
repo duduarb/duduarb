@@ -61,7 +61,17 @@ Sou apaixonado por tecnologia e busco constantemente expandir meus conhecimentos
         title="JavaScript"
         width="30px" 
         style="padding-right: 10px;" 
-        src="http://www.w3.org/2000/svg" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    />
+</a>
+<a href="https://nodejs.org/pt" target="_blank">
+    <img 
+         align="left" 
+        alt="Node.js" 
+        title="Node.js"
+        width="30px" 
+        style="padding-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
     />
 </a>
 <a href="https://git-scm.com/about/branching-and-merging">
