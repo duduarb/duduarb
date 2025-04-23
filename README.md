@@ -45,15 +45,6 @@ Sou apaixonado por tecnologia e busco constantemente expandir meus conhecimentos
     
 ### 🤖 Linguagens e Tecnologias
 
-<a href="https://www.python.org/" target="_blank">
-    <img 
-         align="left" 
-        alt="Python" 
-        title="Python"
-        width="30px" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-    />
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img 
          align="left" 
