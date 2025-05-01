@@ -1,10 +1,8 @@
 # 👨🏼‍💻 Anderson Eduardo
 
-**`🌐 Analista de Suporte`**
+**`📖 Estudante de ADS`**
 
-Me chamo Anderson, tenho 22 anos e sou natural de Minas Gerais, mas atualmente moro na Grande Florianópolis. Concluí o ensino médio em 2020 e, em 2022, ingressei no IFSC para cursar Engenharia Eletrônica. No entanto, após iniciar meus estudos em programação, me interessei muito pela área e decidi trocar de curso. Atualmente, curso Análise e Desenvolvimento de Sistemas (EAD) pela Cruzeiro do Sul e trabalho como Analista de Suporte na FastNetwork.
-
-Sou apaixonado por tecnologia e busco constantemente expandir meus conhecimentos em programação, além de me aprofundar no desenvolvimento de soluções práticas e inovadoras. Meu objetivo é atuar como desenvolvedor back-end.
+Focado em aprender backend com JavaScript e Node.js, atualmente curso ADS e trabalho como Analista de Suporte Técnico. Sou apaixonado por tecnologia e busco constantemente expandir meus conhecimentos em programação, além de me aprofundar no desenvolvimento de soluções práticas e inovadoras. 
 
 ---
 ### 📱 Redes Sociais
