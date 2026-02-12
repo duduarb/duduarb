@@ -1,8 +1,8 @@
-# 👨🏼‍💻 Anderson Eduardo
+# 👨🏼‍💻 Anderson Eduardo Bento
 
-**`📖 Estudante de ADS`**
+**`📖 Estudante de ADS/👨🏼‍💻 Estagiário intelbrás `**
 
-Focado em aprender backend com JavaScript e Node.js, atualmente curso ADS e trabalho como Analista de Suporte Técnico. Sou apaixonado por tecnologia e busco constantemente expandir meus conhecimentos em programação, além de me aprofundar no desenvolvimento de soluções práticas e inovadoras. 
+Estou cursando ADS na PUCRS e hoje atuo como estagiário de Suporte Técnico na Intelbrás. 
 
 ---
 ### 📱 Redes Sociais
@@ -17,15 +17,6 @@ Focado em aprender backend com JavaScript e Node.js, atualmente curso ADS e trab
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"
     />
 </a>
-<a href="https://github.com/duduarb" target="_blank">
-    <img 
-        align="left" 
-        alt="LinkedIn"
-        title="LinkedIn" 
-        width="30px" 
-        style="padding-right: 10px;" 
-        src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg"
-    />
 </a>
 <a href="https://www.instagram.com/duduarb/" target="_blank">
     <img 
@@ -53,23 +44,3 @@ Focado em aprender backend com JavaScript e Node.js, atualmente curso ADS e trab
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
     />
 <br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=duduarb&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=duduarb&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
