@@ -1,6 +1,6 @@
 # Anderson Eduardo Bento
 
-**`📖 Estudante de ADS/ 👨🏼‍💻 Estagiário intelbrás `**
+**`📖 Estudante de ADS / 👨🏼‍💻 Estagiário intelbrás `**
 
 Curso Análise e Desenvolvimento de Sistemas na PUCRS e atuo como estagiário de Analista de Suporte Técnico na Intelbrás. 
 
