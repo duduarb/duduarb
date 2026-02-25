@@ -50,6 +50,6 @@ Curso Análise e Desenvolvimento de Sistemas na PUCRS e atuo como estagiário de
         title="Python"
         width="30px" 
         style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
     />
 <br/>
