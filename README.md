@@ -2,7 +2,7 @@
 
 **`📖 Estudante de ADS/ 👨🏼‍💻 Estagiário intelbrás `**
 
-Curso ADS na PUCRS e atuo como estagiário de Analista de Suporte Técnico na Intelbrás. 
+Curso Análise e Desenvolvimento de Sistemas na PUCRS e atuo como estagiário de Analista de Suporte Técnico na Intelbrás. 
 
 ---
 ### 📱 Redes Sociais
