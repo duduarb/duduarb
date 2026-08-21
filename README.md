@@ -7,7 +7,7 @@ Cursando Análise e Desenvolvimento de Sistemas na PUCRS e atuo como Analista de
 ---
 ### 📱 Redes Sociais
 
-<a href="https://www.linkedin.com/in/anderson-bento-921564205/" target="_blank">
+<a href="https://www.linkedin.com/in/anderson-eduardo-bento/" target="_blank">
     <img 
         align="left" 
         alt="LinkedIn"
